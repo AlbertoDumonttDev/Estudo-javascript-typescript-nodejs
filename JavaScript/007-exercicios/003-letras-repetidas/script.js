@@ -1,5 +1,5 @@
 /*
-    Precisamos mostrar quantas letrar repetitidas aparecem em uma palavra
+    Precisamos mostrar quantas letras repetitidas aparecem em uma palavra
     exp.: Abacate = { a: 3, b: 1, c: 1, t: 1, e: 1}
 
 */
